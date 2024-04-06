@@ -14,7 +14,7 @@ Introduction
 The Weather App is a web-based application that provides users with live weather updates for their city and allows them to search for weather information for other cities worldwide. Whether you want to check the current temperature, humidity, wind speed, or forecast, this app has got you covered.
 
 Demo
-[Insert link to live demo or screenshot of the app]
+https://661194cdca700317043ccc6d--resonant-sable-029574.netlify.app
 
 ![Screenshot (385)](https://github.com/Pawan2030/WeatherApp/assets/136910101/b18e299f-3ab3-49f6-9f60-9318d366e76e)
 
